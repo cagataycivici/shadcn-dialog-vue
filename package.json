@@ -1,6 +1,5 @@
 {
-  "name": "primevue-tailwind",
-  "private": true,
+  "name": "shadcn-dialog",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
